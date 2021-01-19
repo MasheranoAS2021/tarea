@@ -1,0 +1,23 @@
+{
+    "sensores":[
+        {
+            "id": 1,
+            "descripcion": "bombilla de luz",
+            "ubicacion": "living",
+            "encendido": true
+        },
+        {
+            "id": 2,
+            "descripcion": "ventilador",
+            "ubicacion": "cocina",
+            "encendido": false
+        },
+        {
+            "id": 3,
+            "descripcion": "puerta",
+            "ubucacion": "dormitorio",
+            "encendido": false
+
+        }
+    ]
+}
